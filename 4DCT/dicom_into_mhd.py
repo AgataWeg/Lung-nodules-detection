@@ -162,7 +162,7 @@ def main():
 
                     results_.append(
                         {
-                            "box": [*res[1] + res[0] + res[0] + res[0]],
+                            "box": [*res[1], *[res[0]] * 3],
                             "label": [0],
                             "image": file_name + ".mhd",
                         }
