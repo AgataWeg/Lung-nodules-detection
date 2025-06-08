@@ -9,7 +9,7 @@ Repository includes experimental approaches for lung nodules detection. The focu
 #### CTF
 
 ### Sofware
-The environment employed for the scripts can be found in the file [environment.yml](https://github.com/AgataWeg/Lung-nodules-detection/blob/main/environment.yml).
+The environment employed for the scripts can be found in the file [environment.txt](https://github.com/AgataWeg/Lung-nodules-detection/blob/main/environment.txt).
 
 ### Running the Scripts
 #### Locally
