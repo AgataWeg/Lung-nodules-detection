@@ -2,3 +2,4 @@ trained_models/*
 data/*
 CTF/results.json
 !data/slice_thickness.py
+!data/json_annotations.py

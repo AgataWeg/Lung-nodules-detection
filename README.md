@@ -13,12 +13,12 @@ To run scripts:
 In a repository there are four directories: ROI, CTF, 4DCT, data. They use [*Luna16*](https://doi.org/10.5281/zenodo.3723295) dataset. To run the srcipts from ROI, CTF and data folders:
 - download and place data from *Luna16* in a data/ directory. It is recommended to use data from *Subset0* - download and place this folder into data/ directory,
 - for nodule annotations download the *annotations.csv* file and place it in data/ directory as well,
-- run an appropriate script (...) to create a JSON file containing the nodule names and bounding box information.
+- run an appropriate script *json_annotations.py* to create a JSON file containing the nodule names and bounding box information.
 
 #### data/
 
 The folder includes a script called *slice_thickness.py* , which reads the slice thickness values from CT scans in the dataset and saves them into a single JSON file.
-It also contains a script (...) responsible for creating a JSON file with scan names and corresponding nodule bounding boxes, which is later used during inference.
+It also contains a script *json_annotations.py* responsible for creating a JSON file with scan names and corresponding nodule bounding boxes, which is later used during inference.
 
 #### ROI/
 The folder includes a script called *roi_detection.py* , which extracts the ROI from volumetric CT and performs nodule detection using RetinaNet as described in the report.\

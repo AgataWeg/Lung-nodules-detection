@@ -1,4 +1,5 @@
 numpy
+pandas
 SimpleITK
 pydicom
 monai-weekly[nibabel]
