@@ -1,3 +1,6 @@
 numpy
 SimpleITK
 pydicom
+monai-weekly[nibabel]
+itk>=5.2; python_version < "3.10"
+torchvision
