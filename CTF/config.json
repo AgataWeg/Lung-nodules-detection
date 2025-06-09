@@ -1,0 +1,12 @@
+{
+    "data_annotations_path": "./../data/testing_data.json",
+    "data_path": "./../data",
+    "model_path": "./../trained_models/model.ts",
+    "roi_size": [
+        40,
+        40
+    ],
+    "roi_applied_after_inference": true,
+    "slices_num": 1,
+    "center_shift": 0
+}
