@@ -53,16 +53,11 @@ Clone this repository to the server. Follow the same setup steps as described fo
 
 ## Data
 
-*Luna16*
+[*Luna16*](https://doi.org/10.5281/zenodo.3723295)
 
-van Ginneken, B., & Jacobs, C. (2019). LUNA16 Part 1/2 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3723295
+An open dataset for lung nodule detection that uses data from the publicly available [LIDC/IDRI](https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX) database.
 
-An open dataset for lung nodule
-detection that uses data from the publicly available [LIDC/IDRI](https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX) database.
-
-*4D-Lung*
-
-Hugo, G. D., Weiss, E., Sleeman, W. C., Balik, S., Keall, P. J., Lu, J., & Williamson, J. F. (2016). Data from 4D Lung Imaging of NSCLC Patients (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.ELN8YGLE
+[*4D-Lung*](https://doi.org/10.7937/K9/TCIA.2016.ELN8YGLE)
 
 A dataset consists of scans acquired during
 chemoradiotherapy of 20 non-small cell lung cancer patients
