@@ -3,8 +3,8 @@ import csv
 import json
 
 # Configuration
-mhd_folder = 'subset0'             # path to folder containing .mhd files
-csv_path = 'annotations.csv'           # path to CSV file with seriesuid, coordX, coordY, coordZ, diameter_mm
+mhd_folder = 'LUNA16/subset0'             # path to folder containing .mhd files
+csv_path = 'LUNA16/annotations.csv'           # path to CSV file with seriesuid, coordX, coordY, coordZ, diameter_mm
 out_json = 'testing_data.json'    # output JSON filename
 
 # Read CSV and group boxes by seriesuid

@@ -149,7 +149,7 @@ post_transforms = Compose(
     )
 
 data_json = 'testing_data.json'  
-base_image_dir = 'data/subset0'
+base_image_dir = 'LUNA16/subset0'
 with open(data_json) as f:
     data_list = json.load(f)['testing']
 

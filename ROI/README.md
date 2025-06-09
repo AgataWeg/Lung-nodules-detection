@@ -1,5 +1,5 @@
 # Instructions
-Add in the data/ folder the subset0/ folder  from [*LUNA16*](https://doi.org/10.5281/zenodo.3723295).\
+Add in the LUNA16/ folder the `annotations.csv`and  `subset0/`  from [*LUNA16*](https://doi.org/10.5281/zenodo.3723295).\
 Add in the trained_models/ the model.ts file (download it from [monai_lung_nodule_ct_detection](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/monaitoolkit/models/monai_lung_nodule_ct_detection)).\
 Create python environment: `python -m venv monai-det`\
 Activate environment: `source monai-det/bin/activate`\
