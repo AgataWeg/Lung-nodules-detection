@@ -13,7 +13,7 @@ To run scripts:
 In a repository there are four directories: ROI, CTF, 4DCT, data. They use [*Luna16*](https://doi.org/10.5281/zenodo.3723295) dataset. To run the srcipts from ROI, CTF and data folders:
 - download and place data from *Luna16* in a data/ directory. It is recommended to use data from *Subset0* - download and place this folder into data/ directory,
 - for nodule annotations download the *annotations.csv* file and place it in data/ directory as well,
-- run an appropriate script *json_annotations.py* to create a JSON file containing the nodule names and bounding box information.
+- run a script *json_annotations.py* in data/ folder to create a JSON file containing the nodule names and bounding box information.
 
 #### data/
 
