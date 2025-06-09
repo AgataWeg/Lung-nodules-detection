@@ -44,7 +44,7 @@ The environment employed for the scripts can be found in the file [environment.t
 Clone this repository to your computer. You can use both CPU or GPU.
 - run: 
 `git clone git@github.com:AgataWeg/Lung-nodules-detection.git`
-- use [environment.txt](https://github.com/AgataWeg/Lung-nodules-detection/blob/main/environment.txt) to create an environment (e.g. using [conda](https://anaconda.org/anaconda/conda))
+- use [environment.txt](https://github.com/AgataWeg/Lung-nodules-detection/blob/main/environment.txt) to create an environment (e.g. using [conda](https://anaconda.org/anaconda/conda) or [venv](https://docs.python.org/3/library/venv.html)).
 - follow [above points](#lung-nodules-detection) - from the beginning of this README
 
 #### In a Server
