@@ -1,6 +1,6 @@
 {
     "data_annotations_path": "./../data/testing_data.json",
-    "data_path": "./../data",
+    "data_path": "./../data/subset0",
     "model_path": "./../trained_models/model.ts",
     "roi_size": [
         40,

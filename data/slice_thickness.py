@@ -3,7 +3,7 @@ import json
 import SimpleITK as sitk
 
 # configurations
-mhd_folder = "."
+mhd_folder = "./subset0"
 output_json = "slice_thickness.json"
 
 mhd_files = [f for f in os.listdir(mhd_folder) if f.endswith(".mhd")]
